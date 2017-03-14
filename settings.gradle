@@ -1,4 +1,4 @@
-include ':app', ':lbstest', ':percentlayout', ':recyclerview'
+include ':app', ':lbstest', ':percentlayout', ':recyclerview', ':litepalapplication'
 
 
 
